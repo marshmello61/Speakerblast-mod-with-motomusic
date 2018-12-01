@@ -1,7 +1,7 @@
-id=speakerblast
-name=Speaker blast mod with Motomusic
+id=speakerblastm
+name=Speakerblast mod
 version=v4.7
 versionCode=4
 author=marshmello_61 @ xda-developers
-description=Systemlessly blasts the speaker to the unbelievable level with installing motomusic
+description=Systemlessly blasts the speaker volume to the unbelievable level
 minMagisk=1700
