@@ -10,6 +10,7 @@ Initial Release
 
 
 ## Notes
+Uninstall any previous speakermod to experience it on another level
 
 It blasts the speaker to the unbelievable level.
 
