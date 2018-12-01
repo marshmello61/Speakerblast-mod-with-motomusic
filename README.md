@@ -1,15 +1,16 @@
-# Speakerblast with motomusic 
+# Speakerblast mod
 
 For Sanders (moto g5s plus) tested on moto g5 plus | moto g5s plus
 
-This Module will systemlessly installs the brand new motomusic app as your system app.
+This Module will systemlessly increses the default volume of the device
 
 ## Changelog 
 
-Speaker blast now with motomusic
+Initial Release
+
 
 ## Notes
 
-It blasts the speaker to the unbelievable level with installation of the Latest Official Motomusic app.
+It blasts the speaker to the unbelievable level.
 
 ### Thanks For Choosing
