@@ -10,6 +10,6 @@ Speaker blast now with motomusic
 
 ## Notes
 
-It blasts the speaker with installation of the Latest Official Motomusic app. It's Not Nodded or any unofficial app
+It blasts the speaker to the unbelievable level with installation of the Latest Official Motomusic app.
 
 ### Thanks For Choosing
