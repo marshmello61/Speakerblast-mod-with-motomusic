@@ -67,7 +67,7 @@ device_check() {
 if ! device_check "sanders"; then
   ui_print "Device Moto G5s Plus Detected !  Installing Mods"
   else
-  ui_print "Device must be the Moto G5s Plus ! Installation aborting"
+  ui_print "Device must be the Moto G5s Plus ! Aborting the Installation"
   $BOOTMODE || recovery_cleanup
   rm -rf $TMPDIR
    exit 1
