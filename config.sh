@@ -81,7 +81,7 @@ fi
 print_modname() {
   ui_print " "
   ui_print "    *******************************************"
-  ui_print "    *       Speaker blast with Motomusic      *"
+  ui_print "    *            Speakerblast mod             *"
   ui_print "    *******************************************"
   ui_print "    *                 V4.7                    *"
   ui_print "    *            by marshmello_61             *"
@@ -122,8 +122,9 @@ set_permissions() {
   $MAGISK && set_perm_recursive $MODPATH 0 0 0755 0644
 
   # CUSTOM PERMISSIONS
-  set_perm_recursive $UNITY$SYS/system/app/MotoMusic/motomusic.apk 0 0 0644
-  set_perm_recursive $$UNITY$VEN/system/vendor/etc/mixer_paths.xml 0 0 0644}
+  set_perm_recursive $$UNITY$VEN/system/vendor/etc/mixer_paths.xml 0 0 0644
+  
+  
 
   # Some templates if you have no idea what to do:
   # Note that all files/folders have the $UNITY prefix - keep this prefix on all of your files/folders
